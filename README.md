@@ -1,4 +1,9 @@
-This repository is designed to showcase my progress in completing online Cyber Security capture the flag labs and challenges. It stores writeups, scripts and documentation to showcase my thinking and methodology used to complete labs. 
-This process allows me to document my progress in developing my CTF and Cyber Security, as well as storing common scripts or tools which I used to complete CTFs and can refer back and reuse in other CTFs of a similar nature. 
+CTF Writeups & Notes
 
-Feel free to have a squiz around and reaach out to me if you have any questions, suggestions or even complaints.
+This repository documents my progress in solving online cybersecurity Capture The Flag (CTF) labs and challenges.
+
+It contains writeups, scripts, and notes that outline the methodology and thought process used to solve different problems. The goal is to track my learning, document techniques, and build a collection of reusable tools and scripts that can assist with similar challenges in the future.
+
+This repository also serves as a reference for common approaches, tools, and workflows used in CTF environments.
+
+Feel free to explore the repository, and don't hesitate to reach out if you have questions, suggestions, or feedback.
